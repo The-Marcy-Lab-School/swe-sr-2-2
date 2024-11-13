@@ -30,7 +30,13 @@ Explain how data validation for form inputs can be handled both in HTML and Java
 
 ## Prompt 5
 
-Imagine you are creating a brief "how-to" blog. In this response, briefly explain the steps to implement a form with a `textarea` input field that displays a live character count as a user types in the `textarea`.
+Imagine you are creating a brief "how-to" blog. In this response, briefly explain the steps to implement a form with a `textarea` input field that displays a live character count as a user types in the `textarea`. 
+
+Your response should include code examples and an explanation of the code.
+
+See below for the intended functionality:
+
+![A textarea with a live character count below.](./text-area-char-counter.gif)
 
 ### Response 5
 
